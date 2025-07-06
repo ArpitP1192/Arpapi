@@ -31,3 +31,11 @@ D:\Arpit code\Arpapi\obj\Debug\net7.0\refint\Arpapi.dll
 D:\Arpit code\Arpapi\obj\Debug\net7.0\Arpapi.pdb
 D:\Arpit code\Arpapi\obj\Debug\net7.0\Arpapi.genruntimeconfig.cache
 D:\Arpit code\Arpapi\obj\Debug\net7.0\ref\Arpapi.dll
+D:\Arpit code\Arpapi\bin\Debug\net7.0\BouncyCastle.Cryptography.dll
+D:\Arpit code\Arpapi\bin\Debug\net7.0\MailKit.dll
+D:\Arpit code\Arpapi\bin\Debug\net7.0\MimeKit.dll
+D:\Arpit code\Arpapi\bin\Debug\net7.0\System.Formats.Asn1.dll
+D:\Arpit code\Arpapi\bin\Debug\net7.0\System.Security.Cryptography.Pkcs.dll
+D:\Arpit code\Arpapi\bin\Debug\net7.0\System.Text.Encoding.CodePages.dll
+D:\Arpit code\Arpapi\bin\Debug\net7.0\runtimes\win\lib\net7.0\System.Security.Cryptography.Pkcs.dll
+D:\Arpit code\Arpapi\bin\Debug\net7.0\runtimes\win\lib\net7.0\System.Text.Encoding.CodePages.dll
